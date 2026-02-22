@@ -1,14 +1,32 @@
 ---
 title: "test_ai_literacy"
-format: html
+author: Ria
+format: 
+  html:
+    toc: true
+    number-sections: true
+    embed-resources: true
+    anchor-sections: true
+    smooth-scroll: true
+    theme: darkly
+    css: styles.css
 editor: visual
+date: today
 ---
 
-## Some nonsense text! 
+# Summary & Key Points
 
-Here is some nonsense!
+::: {.callout-note collapse="false"}
+## Key Terms
 
-## Will this work? 
+-   **Artifical intelligence)** is the ratio of between variance to total variance.
+-   **Generative artificial intelligence** are differences between units (e.g., people).
+-   **Large language models** are differences within units (e.g., people).
+-   **AI litearcy** are (assumed) to be identical for every participant.
+-   **Training data** are effects that varies randomly by person.
+:::
+
+## Will this work?
 
 We will see!
 
